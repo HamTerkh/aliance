@@ -15,3 +15,15 @@ git push
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wdth,
 wght@0,62.5..100,100..900;1,62.5..100,100..900&display=swap" rel="stylesheet">
+
+
+<img
+            class="logo-light"
+            src="img/light-logo.svg"
+            alt="Aliance Production"
+          />
+          <img
+          class="logo-black"
+            src="img/light-logo.svg"
+            alt="Aliance Production"
+          />
